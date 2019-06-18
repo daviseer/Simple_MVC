@@ -1,7 +1,7 @@
 Options -MultiViews
 RewriteEngine On
 
-RewriteBase /mvc/public
+RewriteBase /mvc/Simple_MVC/public
 
 RewriteCond %{REQUEST_FILENEAME} !-d
 RewriteCond %{REQUEST_FILENEAME} !-f
